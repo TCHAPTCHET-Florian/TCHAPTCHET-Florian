@@ -9,21 +9,21 @@ I am a highly motivated and results-oriented IT professional with several years 
 
 
 - <b>**Administration Master Lab**</b>
-  - [Active Directory Lab](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/edit/main/README.md)
+  - [Active Directory Lab](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/blob/main/README.md)
     - Created a mini corporate Active Directory enviroment with Domain Controller, DHCP, DNS, Python User Creation, and Group Policy Object(GPO)
-  - [Ubuntu AD Integration](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/edit/main/README.md)
+  - [Ubuntu AD Integration](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/blob/main/README.md)
     - Building on from Active Directory Lab with an Ubuntu Server centralizing user management configuring network settings, joining the Ubuntu Server to the AD domain, setting up Kerberos authentication, and optimizing system configurations.
       
 - <b>**Cloud Security Ventures**</b>
-  - [Live SOC/Honeynet in Azure](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/edit/main/README.md)
+  - [Live SOC/Honeynet in Azure](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/blob/main/README.md)
     - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
 
 - <b>**Security Operations Center(SOC) Initiatives**</b>
-  - [Security Onion SOC Workshop](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/edit/main/README.md)
+  - [Security Onion SOC Workshop](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/blob/main/README.md)
     - A small-scale Security Operations Center (SOC) laboratory was established using Security Onion. This included tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
-  - [Project Fishy Phiisshing](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/edit/main/README.md)
+  - [Project Fishy Phiisshing](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/blob/main/README.md)
     - A comprehensive analysis of phishing threats, this project leverages Python to automate the retrieval of phishing samples from a dedicated GitHub repository using the GitHub API. We'll then concentrate on examining various phishing emails, focusing on strategies and techniques. The outcomes are detailed reports that not only chronicles the findings but also serve as resources for cybersecurity awareness and education.
-  - [Qualys Quest Analysis](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/edit/main/README.md)
+  - [Qualys Quest Analysis](https://github.com/TCHAPTCHET-Florian/TCHAPTCHET-Florian/blob/main/README.md)
     - In this detailed walkthrough, we establish a virtual environment to run Qualys for vulnerability assessments. With outdated applications installed to simulate potential security risks, we provide a foundation for our scans. Employing the vulnerability management cycle, we systematically scan, analyze, and remediate, demonstrating a continuous approach to managing vulnerabilities. Furthermore, we craft pivot tables to generate a trend report that documents the progression and remediation of vulnerabilities throughout the cycles.
 
 
