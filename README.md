@@ -1,8 +1,8 @@
-# I am Chapy, <a href="https://www.linkedin.com/in/florian-tchaptchet-njokwa/"> 🔏 Cybersecurity - DevSecop Enthusiast</a>
+# Hello am Florian, <a href="https://www.linkedin.com/in/florian-tchaptchet-njokwa/"> 🔏 Cybersecurity - DevSecop Enthusiast</a>
 
-# 💫 About Me:
+# 💫 About Me
 
-I am a highly motivated and results-oriented IT professional with several years of experience in IT support and a passion for cybersecurity. I am currently working towards a career in cybersecurity and have recently obtained my CC | ISC2 Cybersecurity Analyst (CSA) certification. I am also planning to pass the AWS Cloud Practitioner exam in the near future. I am proficient in Python programming and have a strong understanding of security best practices. I am eager to learn new things and am always looking for new challenges.
+I'm a software engineer specializing in FullStack Development. I'm passionate about DevSecOps and always eager to learn new technologies.
 
 
 # 💡 Labs & Projects:
